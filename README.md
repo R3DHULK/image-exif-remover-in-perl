@@ -1,0 +1,1 @@
+# image-exif-remover-in-perl
